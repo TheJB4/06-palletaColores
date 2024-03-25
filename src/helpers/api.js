@@ -1,4 +1,4 @@
-let URL = 'http://localhost:4001/api/colores'
+let URL = 'https://palleta-colores-backend.vercel.app/api/colores'
 
 export const obtenerColores = async () => {
     try {
